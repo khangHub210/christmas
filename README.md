@@ -9,15 +9,15 @@
 
 
 ## những việc cần làm
-### *tạo trang đăng nhập - [ ]
+### tạo trang đăng nhập - [ ]
 
-### *tạo header
+### tạo header
   - [ ] tạo background
   - [ ] thêm banner
   - [ ] thêm thanh công cụ
   - [ ] thêm thanh tìm kiếm
     
-### *tạo main
+### tạo main
   - [ ] tạo background
   - [ ] tạo 
   - [ ] 
