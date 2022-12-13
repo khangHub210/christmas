@@ -12,8 +12,8 @@
 ### tạo trang đăng nhập - [ ]
 
 ### tạo header
-  - [ ] tạo background
-  - [ ] thêm banner
+  - [x] tạo background
+  - [x] thêm banner
   - [ ] thêm thanh công cụ
   - [ ] thêm thanh tìm kiếm
     
