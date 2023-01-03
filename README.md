@@ -9,7 +9,7 @@
 
 
 ## những việc cần làm
-### tạo trang đăng nhập - [ ]
+### tạo trang đăng nhập - [x]
 
 ### tạo header
   - [x] tạo background
@@ -18,8 +18,8 @@
   - [ ] thêm thanh tìm kiếm
     
 ### tạo main
-  - [ ] tạo background
-  - [ ] tạo 
+  - [x] tạo background
+  - [x] thêm sản phẩm
   - [ ] 
 ### tạo footer
   - [ ] tạo
